@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Toufiq 👋
 
-<!--
-**torredefarol24/torredefarol24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer (9+ years) | Backend & Full Stack
 
-Here are some ideas to get you started:
+I build scalable backend systems, microservices, and full-stack applications using Node.js, Python, and React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* Build scalable REST APIs & microservices
+* Develop full-stack web & mobile apps
+* Automate workflows and data pipelines
+* Work with cloud infrastructure (AWS, GCP)
+
+---
+
+## 🧰 Tech Stack
+
+**Backend:** Node.js (TypeScript), Python (Flask)
+
+**Frontend:** React, React Native
+
+**Cloud & DevOps:** AWS, Docker, CI/CD
+
+**Databases:** MySQL, MongoDB, Redis
